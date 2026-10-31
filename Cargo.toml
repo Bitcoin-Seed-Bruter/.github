@@ -1,0 +1,12 @@
+[package]
+name = "seed-brute"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.74"
+description = "bruter"
+publish = false
+
+[profile.release]
+strip = true
+lto = true
+codegen-units = 1
